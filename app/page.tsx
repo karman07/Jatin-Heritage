@@ -82,8 +82,8 @@ const whyItems = [
 const galleryItems = [
   { src: "/images/deck-3.jpg", tag: "Deck Build", tall: true },
   { src: "/images/fence-1.jpg", tag: "Fence Install", tall: false },
-  { src: "/images/deck-1.jpg", tag: "Deck & Railing", tall: false },
-  { src: "/images/fence-2.jpg", tag: "Privacy Fence", tall: true },
+  { src: "/images/deck-1.jpg", tag: "Wooden Deck & Railing", tall: false },
+  { src: "/images/fence-2.jpg", tag: "Full Privacy Fence", tall: true },
   { src: "/images/deck-2.jpg", tag: "Composite Deck", tall: false },
 ];
 
